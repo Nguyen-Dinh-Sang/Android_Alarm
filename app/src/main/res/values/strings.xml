@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Android_Alarm</string>
+
+    <string name="empty_view_text">Bạn chưa có báo thức nào, dùng + để tạo một cái</string>
+
+    <string name="time">Time</string>
+    <string name="label">Label</string>
+    <string name="days">Days</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="add_alarm">Thêm báo thức</string>
+    <string name="add_label_hint">Add a label!</string>
+    <string name="update_complete">Cập Nhật Thành Công</string>
+    <string name="update_failed">Cập Nhật Thất Bại</string>
+    <string name="delete_complete">Alarm Deleted</string>
+    <string name="delete_failed">Delete Failed</string>
+    <string name="delete_dialog_title">Confirm Delete Alarm</string>
+    <string name="delete_dialog_content">Are you sure you would like to delete this alarm?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="launch_main_activity">Launch Main Activity</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string name="channel_name">Simple Alarms</string>
+
+
+    <string name="update_complete2">Lưu Thành Công</string>
+    <string name="update_failed2">Lưu Thất Bại</string>
+</resources>
